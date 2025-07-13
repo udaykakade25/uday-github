@@ -36,4 +36,5 @@ The story's still unfolding🚀</p>
 | [**stdlib-js**](https://github.com/stdlib-js) | [Website](https://github.com/stdlib-js/stdlib) | PR (Open) | [7435](https://github.com/stdlib-js/stdlib/pull/7435) |
 
 ---
-![](https://komarev.com/ghpvc/?username=udaykakade25&color=blue) 
+![Profile Views](https://komarev.com/ghpvc/?username=udaykakade25&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/udaykakade25?style=for-the-badge&color=orange&labelColor=ce7b00)](https://github.com/udaykakade25)
