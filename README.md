@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/udaykakade25/uday-github/master/name.svg" alt="Uday Kakade" />
-</h1>
-
+![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Uday.&animation=fadeIn&type=waving&color=gradient&height=100)
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Uday Kakade🚀
 <p>Learning never exhausts the mind. 
