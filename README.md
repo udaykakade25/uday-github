@@ -2,9 +2,10 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Uday+Kakade+%F0%9F%91%8B;Contributor+@+stdlib-js+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer)](https://git.io/typing-svg)
 
-</div>
 
 ![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Uday.&animation=fadeIn&type=waving&color=gradient&height=100)
+
+</div>
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Uday Kakade🚀
 <p>Learning never exhausts the mind. 
@@ -12,13 +13,20 @@
 The story's still unfolding🚀</p>
 
 ---
-## 🌱 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/uday-kakade-676879348/)
-- 🔗 [GitHub](https://github.com/udaykakade25)
-- 🔗 [X](https://x.com/UdayKakade25)
-- 🔗 [Portfolio](https://udaykakade.vercel.app/)
---- 
+### 🌱 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge)](https://udaykakade.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-kakade-676879348/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykakade2525@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge)](https://x.com/UdayKakade25)
+
+</div>
+
+---
+
 ### Skills
 
 <div align="left">
@@ -33,6 +41,7 @@ The story's still unfolding🚀</p>
 </div>
 
 ---
+
 ## 🚀 My Open Source Contributions
 (_Last Updated: 10th July 2025_)
 | Organization Name | Repository | Type | Link |
