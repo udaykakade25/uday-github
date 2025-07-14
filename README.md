@@ -7,7 +7,7 @@
 
 </div>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Uday Kakade🚀
+# <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="50px" width="50px" align="center"/> About Me
 <p>Learning never exhausts the mind. 
 <br/>
 The story's still unfolding🚀</p>
