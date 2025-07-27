@@ -46,11 +46,14 @@ The story's still unfolding🚀</p>
 
 ## 🚀 My Open Source Contributions
 (_Last Updated: 10th July 2025_)
-| Organization Name | Repository | Type | Link |
+| Organization Name | Contributions | Status | Link |
 |--------------|-------------|--------------|------------|
-| [**stdlib-js**](https://github.com/stdlib-js) | [Website](https://github.com/stdlib-js/stdlib) | PR (Merged) | [7273](https://github.com/stdlib-js/stdlib/pull/7273) |
-| [**stdlib-js**](https://github.com/stdlib-js) | [Website](https://github.com/stdlib-js/stdlib) | PR (Merged) | [7347](https://github.com/stdlib-js/stdlib/pull/7347) |
-| [**stdlib-js**](https://github.com/stdlib-js) | [Website](https://github.com/stdlib-js/stdlib) | PR (Open) | [7435](https://github.com/stdlib-js/stdlib/pull/7435) |
+| [**Klavis AI (YC25)**](https://github.com/Klavis-AI) | **feat:** LinkedIn MCP Server | PR (Merged) | [#165](https://github.com/Klavis-AI/klavis/pull/165) |
+| [**Klavis AI (YC25)**](https://github.com/Klavis-AI) | **feat:** Xero MCP Server | PR (Open) | [#187](https://github.com/Klavis-AI/klavis/pull/187) |
+| [**stdlib-js**](https://github.com/stdlib-js) | **feat:** Add `assert/has-float16array-support` | PR (Merged) | [#7273](https://github.com/stdlib-js/stdlib/pull/7273) |
+| [**stdlib-js**](https://github.com/stdlib-js) | **feat:** Add `assert/is-float16array` | PR (Merged) | [#7347](https://github.com/stdlib-js/stdlib/pull/7347) |
+| [**stdlib-js**](https://github.com/stdlib-js) | **feat:** Add `array/float16` | PR (Open) | [#7435](https://github.com/stdlib-js/stdlib/pull/7435) |
+| [**Klavis AI (YC25)**](https://github.com/Klavis-AI) | **docs:** LinkedIn MCP Documentation | PR (Merged) | [#170](https://github.com/Klavis-AI/klavis/pull/170) |
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=udaykakade25&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
